@@ -7,6 +7,7 @@ Belajar kelas Memulai pengenalan ke logika pemograman (Proggress 100%)
 - Belajar logika, algoritma yang di implementasikan sebagai studi kasus kehidupan sehari -hari
 - Belajar logika aritmatika, perbandingan, dan pengulangan
 - Mengimplemenasikan dalam logika pemograman
+- Mengerjakan ujian akhir untuk menilai kemahiran diri
 
 **20 februari 2024**<br>
 Belajar Dasar Pemograman untuk menjadi Pengembang Software (progress 100%)
